@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Plugins/RootMotion/FinalIK/_DEMOS/CCD IK/CCD IK.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
